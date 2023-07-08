@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ranojaan Mahendran</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
-(img align="right" alt="Coding" width="400" src="https://media.tenor.com/s0VWUEOHz9kAAAAd/elbformat-coding.gif")
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/s0VWUEOHz9kAAAAd/elbformat-coding.gif">
 
-- 🌱 I’m currently learning **C# ,ASP.NET Core ,Angular**
+- 🌱 I’m currently learning **C# , ASP.NET Core , Angular**
 
 - 💬 Ask me about **C# , Codeigniter**
 
@@ -10,6 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ranojaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranojaan" height="30" width="40" /></a>
 <a href="https://instagram.com/ranojan26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranojan26" height="30" width="40" /></a>
 <a href="https://medium.com/@ranojaan2602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ranojaan2602" height="30" width="40" /></a>
 </p>

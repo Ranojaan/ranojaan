@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/s0VWUEOHz9kAAAAd/elbformat-coding.gif">
 
-- 🌱 I’m currently learning **C# , ASP.NET Core , Angular**
+- 🌱 I’m currently learning **React and Full Stack**
 
-- 💬 Ask me about **C# , Codeigniter**
+- 💬 Ask me about **React ,MERN Stack , Codeigniter**
 
 - 📫 How to reach me **Ranojaan2602@gmail.com**
 

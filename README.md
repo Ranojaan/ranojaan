@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranojaan Mahendran</h1>
-<h3 align="center">A passionate developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/s0VWUEOHz9kAAAAd/elbformat-coding.gif">
 
 - 🌱 I’m currently learning **React and Full Stack**

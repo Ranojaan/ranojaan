@@ -48,9 +48,9 @@
 
 <h3 align="left">📂 Featured Projects</h3>
 
-- 📈 **Power BI Sales Dashboard** – Visual insights into regional and category-wise performance
-- 🧹 **Data Cleaning in Python** – Automated cleaning scripts with pandas
-- 🔍 **Customer Segmentation** – Using SQL and Power BI for business insights
+- 📈 **Marketing Analysis for Business** – analyzes the effectiveness of marketing campaigns for Innova, an online retail company experiencing reduced customer engagement and conversion rates.
+- 🧹 **Superstore Sales Data Analysis** –  explores 3 years’ worth of sales data from a fictional superstore. Using Python (Pandas, Matplotlib, and Seaborn), we answer key business questions and identify patterns in customer behavior, product trends, and profit drivers.
+- 🔍 **Internet Sales Dashboard** – The goal was to better track internet sales by product, customer, and time, and to compare performance against budgets. Different users (Sales Manager and Sales Reps) needed custom views to help with decision-making and follow-ups.
 
 Explore more in my [repositories](https://github.com/ranojaan?tab=repositories)
 
